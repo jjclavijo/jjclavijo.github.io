@@ -16,12 +16,12 @@ las estaciones. Así me pasé unas larguísimas 10 cuadras que me hicieron llega
 por la mitad de la primera charla.
 
 El simposio comenzó con las charlas institucionales. Primero
-[https://ar.linkedin.com/in/sofía-nilo-crisóstomo-979b0723](Sofía Nilo) nos
+[Sofía Nilo](https://ar.linkedin.com/in/sofía-nilo-crisóstomo-979b0723) nos
 comentó sobre [UN-GGIM](https://ggim.un.org/) y el papel que juega SIRGAS con
 ese comité.  Fue bueno ver remarcado que los resultados de cooperación en
 nuestra región son muy sólidos y pueden hasta servir como ejemplo a nivel
-global.  lugeo [https://br.linkedin.com/in/sonia-costa-46366847/en](Sonia
-Alves-Costa), del IBGH y presidente de SIRGAS, expuso el estado en general de
+global.  lugeo [Sonia
+Alves-Costa](https://br.linkedin.com/in/sonia-costa-46366847/en), del IBGH y presidente de SIRGAS, expuso el estado en general de
 SIRGAS y todos sus proyectos. Hizo especial énfasis  en dos aspectos técnicos.
 En primer lugar están los esfuerzos que se llevan a cabo para compatibilizar
 los sistemas de altura y las mediciones de gravedad regionales, con el objetivo
@@ -33,12 +33,11 @@ versiones de ITRF, la precisión de la red mejoró mucho. Esto alienta a la
 adopción, pronta a realizarse, de
 [ITRF2020](https://itrf.ign.fr/en/solutions/ITRF2020), y el reprocesamiento de
 las observaciones históricas en ese marco.
-[https://sirgas.ipgh.org/wp-content/uploads/2022/10/2022_17_10_SIRGAS_REFAG2022.pdf](Los
-temas tratados son similares a la presentación que está en este link.)
+[Los temas tratados son similares a la presentación que está en este link.](https://sirgas.ipgh.org/wp-content/uploads/2022/10/2022_17_10_SIRGAS_REFAG2022.pdf)
 
 Siguieron las presentaciones de cada grupo de trabajo. En la presentación del
 Grupo I, que coordina el procesamiento de las observaciones GNSS,
-[https://www.digeo.usach.cl/jose-antonio-tarrio-mosquera](José Antonio Tarrío),
+[José Antonio Tarrío](https://www.digeo.usach.cl/jose-antonio-tarrio-mosquera),
 de USACH, nos contó los avances y dificultades de la coordinación de esta
 tarea. Se destacó la gran coherencia del procesamiento con los estándares
 actuales, la inclusión de un nuevo centro de procesamiento en Costa Rica, y
@@ -49,8 +48,8 @@ los detalles para lograr un procesamiento colaborativo coherente y de gran
 precisión.
 
 En la presentación del Grupo II,
-[https://earthsciences.osu.edu/people/gomez.124](Demián Gómez), de OSU e
-IGN-Argentina, presentó los avances en la difícil tarea de fomentar el uso de
+[Demián Gómez](https://earthsciences.osu.edu/people/gomez.124), de OSU e
+IGN Argentina, presentó los avances en la difícil tarea de fomentar el uso de
 SIRGAS como marco de referencia en los diferentes paises miembro. Para eso
 llevaron adelante diversas actividades de difusión, sondeo, capacitación, etc.
 
@@ -61,8 +60,8 @@ validación de los resultados. Se habló de generar convenios para instalar
 estaciones, y quedó en claro que SIRGAS es ante todo un gran esfuerzo de
 cooperación
 
-El Grupo III, presentado por [http://lattes.cnpq.br/3906104650421300](Gabriel
-Guimarães), nos puso al tanto de los trabajos relativos a sistemas de altura y
+El Grupo III, presentado por [Gabriel
+Guimarães](http://lattes.cnpq.br/3906104650421300), nos puso al tanto de los trabajos relativos a sistemas de altura y
 mediciones gravimétricas. Nos contó de las capacitaciones y esfuerzos
 realizados para poder establecer estaciones del IHRF en cada país miembro y de
 los distintos esfuerzos para compartir y procesar datos gravimétricos. Aquí se
