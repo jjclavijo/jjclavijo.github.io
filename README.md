@@ -7,7 +7,7 @@ Bienvenidos esta es mi página "personal". Aquí voy subiendo algunas cosas que 
 ### Simposio Sirgas 2022
 
 - [Resumen de mi charla en el simposio SIRGAS 2022](https://github.com/jjclavijo/3ideas2022sirgas#readme)
-- [Crónica del Día 1 del simposio](./CronicasSIRGAS/Dia1)
+- [Crónica del Día 1 del simposio](./CronicasSirgas/Dia1)
 
 ## Material de Cursos
 
