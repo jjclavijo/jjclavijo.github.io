@@ -120,8 +120,8 @@ software, etc. Nuevamente mi cabeza vuelve a la charla del martes, no soy el
 único que piensa que es importante poder sabe qué hace exactamente un
 procesamiento y cómo de comparable es con otros.
 
-Antes de irnos al Café escuchamos a
-[https://www.researchgate.net/profile/Youssef-Tawk](Youssef Tawk), de Leica
+Antes de irnos al Café escuchamos a [Youssef Tawk](https://www.researchgate.net/profile/Youssef-Tawk)
+, de Leica
 Geosystems, contarnos cómo funciona la detección y mitigación de interferencias
 en los nuevos receptores Leica. Interesante, aunque desde el lado del usuario
 no podemos hacer nada contra la interferencia más que intentar mejorar la
@@ -182,8 +182,8 @@ debe saber mejor que
 yo.](https://duckduckgo.com/?q=libro+modelos+lineales+site:edu+-site:academia.edu&ia=web&kl=)
 
 Y ahora retomando la crónica, vino la muy interesante charla donde
-[https://cl.linkedin.com/in/felipe-carvajal-rodr%C3%ADguez-87141493](Felipe
-Carvajal) nos mostró un método que, aplicando una teoría derivada del test de
+[Felipe Carvajal](https://cl.linkedin.com/in/felipe-carvajal-rodr%C3%ADguez-87141493)
+nos mostró un método que, aplicando una teoría derivada del test de
 hipótesis estadístico, se puede construir un proceso completamente automatizado
 para decidir si una red GNSS sufre deformación de una época a otra.
 
@@ -210,8 +210,8 @@ utiliza para realizar el cálculo del marco de referencia argentino, POSGAR,
 tanto en su versión operacional (definido semana a semana) como en su versión
 de (re)procesamiento (que define trayectorias parametrizadas para los puntos).
 La presentación siguió de cerca
-[https://link.springer.com/article/10.1007/s00190-022-01594-0](este paper que
-publicaron junto con otros autores) en journal of geodesy.
+[este paper que publicaron junto con otros autores](https://link.springer.com/article/10.1007/s00190-022-01594-0)
+en journal of geodesy.
 
 El concepto principal es el siguiente: Aunque bajo una mirada global ITRF no
 presenta una rotación ni un movimiento conjunto que sea trivialmente
@@ -284,8 +284,9 @@ instituciones. Sumamente alentador.
 
 Luego de un pequeño corte finalizaron las actividades del día con la reunión
 del Grupo de Trabajo I. Se habló de la necesidad de implementar en forma
-generalizada el uso de archivos RINEX 4 (que en el de observación son similares
-al RINEX 3), para poder ser consistentes en el manejo de datos
+generalizada el uso de archivos [RINEX 4](https://insidegnss.com/rinex-4-0-announced/)
+(que en el de observación son similares al RINEX 3),
+para poder ser consistentes en el manejo de datos
 multiconstelación.  Énfasis aquí en la necesidad de que los profesionales se
 acostumbren al uso de estos archivos, al menos como intercambio -no sería
 necesario que modifiquen sus flujos de trabajo, pero si que conozcan el
