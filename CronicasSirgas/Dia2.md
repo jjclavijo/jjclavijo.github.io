@@ -1,10 +1,13 @@
-# Cronica del Simposio SIRGAS 2022: Dia 2
+# Cronica del Simposio SIRGAS 2023: Dia 2
+
+> Las presentaciones para todos los días del simposio están disponibles
+> [En este link](https://sirgas.ipgh.org/eventos-sirgas/simposios/symp_2022/)
 
 El segundo día del simposio comenzó como era previsible: ajustando los últimos
 detalles para mi exposición. Me hice un apunte de cada diapositiva y qué decir
 en cada momento.
 
-No soy muy amigo de las diapositivas, y no termino de aprender a adaptarme a la
+No soy muy amigo de las diapositivas --[Por ejemplo, recomiendo siempre este "ensayo"](https://www.inf.ed.ac.uk/teaching/courses/pi/2016_2017/phil/tufte-powerpoint.pdf) [y este video](https://www.youtube.com/watch?v=Iwpi1Lm6dFo), aunque asumo que la verdad debe estar [En algún lugar intermedio](https://kristw.medium.com/edward-tufte-hates-powerpoint-should-i-b6dba13178ee)-- , y no termino de aprender a adaptarme a la
 modalidad. El resultado: me quedó un esquema de charla demasiado largo para el
 tiempo disponible, espero que la organización me haya perdonado.
 
@@ -18,12 +21,12 @@ rutinario de SIRGAS.
 
 Luego de explicar el esquema general de procesamiento y combinación de
 observaciones en SIRGAS, planteó las dificultades que se generan para la
-realización operacional de SIRGAS (procesamiento semanal de coordenadas).  El
-planteo es que, siendo SIRGAS un Marco de Referencia sólo GNSS, existe una
+[realización operacional de SIRGAS (procesamiento semanal de coordenadas)](https://sirgas.ipgh.org/red-gnss/coordenadas/coordenadas-semanales/).
+El planteo es que, siendo SIRGAS un Marco de Referencia sólo GNSS, existe una
 dependencia de un modelo de movimiento "secular" de las estaciones en la
 realización del marco. Esto puede producir variaciones en la realización, que
 se expresan como transformaciones de similaridad que afectan a toda la red.
-Este es un problema sobre el que ya escribí en la cronica del Día 1.  Para
+Este es un problema sobre el que ya escribí [en la cronica del Día 1](Dia1).  Para
 ilustrar estas variaciones, Laura nos mostró las soluciones de una traslación
 entre soluciones semanales SIRGAS e IGS. Pudo verse ahí cómo las sucesivas
 realizaciones de IGS fueron reduciendo las diferencias -- como consecuencia de
@@ -35,28 +38,30 @@ realización por época del marco de referencia regional a partir de la inclusi�
 de datos globales --GNSS y también de otras técnicas que permitan determinar el
 centro de masas-- junto con los datos regionales, en lugar de realizar una
 alineación en el modelo secular sino sólo en la orientación de la red global
-GNSS época a época. Estos conceptos están relacionados con [Este paper
-publicado por el equipo del
-DGFI](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2021JB023880),
-donde se desarrollan estas ideas más en profundidad.
+GNSS época a época. Estos conceptos están relacionados con
+[Este paper publicado por el equipo del DGFI](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2021JB023880)
+, donde se desarrollan estas ideas más en profundidad.
 
 Con está charla quedó abierta el juego a plantear cuál es la estrategia más
-conveniente para SIRGAS. Por ejemplo, al final de la otra charla de Laura se
-planteó -- en la ronda de preguntas -- el contraste entre usar modelos de carga
-no-mareal o incluir componentes periódicas al modelo secular de movimiento.
+conveniente para SIRGAS. Por ejemplo, al final de la segunda charla de Laura se
+planteó -- en la ronda de preguntas -- el contraste entre [usar modelos de carga
+no-mareal](https://earth-planets-space.springeropen.com/articles/10.1186/s40623-022-01634-1)
+o incluir componentes periódicas al modelo secular de movimiento.
 Claramente la realización por-epóca con datos globales incluidos en el
 procesamiento se presta al modelado de estas variaciones como efectos de carga.
 
 En la segunda charla, Laura nos comentó sobre el trabajo de reprocesamiento de
 los datos SIRGAS que realizó el DGFI, para generar un conjunto coherente de
-soluciones SIRGAS en el marco de referencia IGb14. En este procesamiento se
-incluyeron datos de estaciones distribuidas globalmente, lo que mitiga los
-problemas de alineación que Demián Gómez nos comentaba el día anterior -- y
-podría anularlos completamente con una distribución de estaciones ideal --.  El
-resultado de este procesamiento está disponible públicamente y mejora en mucho
-la solución operacional, no sólo por el uso de IGb14 sino por la inclusión de
-nuevos datos históricos de estaciones SIRGAS que contaban con datos históricos
-anteriores a su incorporación a la red.
+soluciones SIRGAS en [el marco de referencia IGb14](https://lists.igs.org/pipermail/igsmail/2020/007917.html)
+mantenido por [IGS](https://igs.org/wg/reference-frame/).
+En este procesamiento se incluyeron datos de estaciones distribuidas
+globalmente, lo que mitiga los problemas de alineación que Demián Gómez nos
+comentaba el día anterior -- y podría anularlos completamente con una
+distribución de estaciones ideal --.  El resultado de este procesamiento está
+disponible públicamente y mejora en mucho la solución operacional, no sólo por
+el uso de IGb14 sino por la inclusión de nuevos datos históricos de estaciones
+SIRGAS que contaban con datos históricos anteriores a su incorporación a la
+red.
 
 Siguió a continuación la presentación de Sebastián Kollner, de la empresa
 chilena Kollner-Labraña, presentándonos el funcionamiento de la red de
@@ -65,13 +70,13 @@ charla fue la primera en la que se planteó el problema, en Chile, de la
 necesidad de actualizar las posiciones de los receptores en caso de
 deformación, a partir de uso de un marco de referencia dinámico. La solución
 planteada en este caso es pedir la certificación del IGM de Chile para la
-posición de cada estación cada vez que el IGM publica una realización de su
-marco de referencia nacional actualizado.  Se hizo mucho énfasis
---acertadamente-- en educar a los usuarios para que entiendan estos conceptos y
-puedan hacer un uso coherente de los servicios.
+posición de cada estación cada vez que el [IGM publica una realización de su
+marco de referencia nacional actualizado](https://www.sirgaschile.cl/Referencia_Oficial_RGN_SIRGAS.php).
+Se hizo mucho énfasis --acertadamente-- en educar a los usuarios para que
+entiendan estos conceptos y puedan hacer un uso coherente de los servicios.
 
 Luego fue el turno de mi charla. Ya les dejé un resumen en
-[mi Github](https://github.com/jjclavijo/3ideas2022sirgas#readme), asique no me
+[mi Github](https://github.com/jjclavijo/3ideas2022sirgas#readme), asi que no me
 voy a extender en ese punto.
 
 Durante la charla me fui dando cuenta de que el tiempo no me alcanzaba para todo
@@ -179,7 +184,55 @@ al mismo tiempo con un análisis detallado de metodologías, que pueden ser apli
 a nuevos datos, y un dataset sobre el que se pueden evaluar metodologías comparando
 los resultados con los publicados por otros grupos.
 
-En esta línea, el trabajo de
+En esta línea, el trabajo de Thiago padilla y Tiago Rodrigues se enfocó en
+analizar parte de las metodologías aplicadas al modelado en Brasil.
+Lamentablemente no pude captar demasiado los conceptos de este trabajo, mas
+allá del uso de un modelo de inhomogeneidades laterales de densidad de las
+masas topográficas. Esto quiere decir que se aplicó un modelo de los cambios en
+la densidad del terreno al aplicar la corrección topográfica al modelado con la
+técnica de Remove-Restore.
 
+Las presentaciones Agustín Gómez y Ana Cristina Oliveira trataron directamente
+sobre desarrollos metodológicos aplicados a los datos de colorado con vistas a
+poder trasladar los desarrollos a datos regionales. La explicación metodológica
+fue muy prolija y detallada, lo cual lo hizo muy interesante. De todos modos,
+al no ser tema de mi experiencia no tengo mucho mas para decir que que
+recomiendo que se pongan al tanto de este experimento de colorado --
+oficialmente "Colorado 1cm Geoid Experiment", de sus resultados y de como una
+iniciativa de este tipo beneficia enormemente a toda la comunidad, no sólo
+científica sino también de la educación.
 
+Siguió otra presentación de la gente de la Universidad Politécnica de Sao
+Paulo, En ella se habló del cálculo del potencial gravitatorio sobre las
+estaciones propuestas para incorporar al IHRF. Se compararon distintas
+metodologías, nuevamente se me escapan los detalles importantes, aunque cada
+charla que pasa me crecen las ganas de agarrar ["Physical Geodesy" de
+Hoffman-Wellenhof y Moritz](https://es.scribd.com/document/513340881/Hofmann-Wellenhof-B-Moritz-H-Physical-Geodesy-2005) y leerlo de punta a punta, por suerte no lo tenía a
+mano y pude seguir atendiendo al resto del simposio.
 
+Luego, llegó el turno de Juan Carlos Vidal Cejas, del IGM de Bolivia, que expuso
+sobre una validación del modelo de Ondulación Geoidal de Bolivia con respecto
+a puntos de la red nacional de nivelación. El modelo, de un minuto por un minuto,
+fue interpolado para poder hacer las comparaciones en los puntos de validación.
+Hubo en la presentación un pequeño desarrollo sobre los posibles métodos de
+interpolación, y me siento tentado a extenderme, porque es otro de mis temas
+favoritos, pero lo voy a dejar pasar para no aburrir.
+
+Cerró la sesión con dos charlas de
+[Walter Subiza](https://www.linkedin.com/in/walter-humberto-subiza-pina/),
+del IGM de Uruguay.
+Ambas charlas trataron sobre la actualización del sistema vertical de Uruguay,
+la primera desde el punto de vista de modelado del geoide -- con muchas nuevas
+referencias al experimento de colorado --, y la segunda desde el punto de vista
+de la actualización de las mediciones y los acuerdos para compartir datos con
+paises vecinos. Ambas charlas fueron muy interesantes y amenas, y me animo a
+decir que Walter fue el orador con mejor manejo del auditorio en el día, sin
+ofender al resto de los expositores o a mi mismo, que también formo parte de el
+grupo de los no-mejores oradores del día.
+
+No participé en las reuniones de los grupos de trabajo II y III, porque el
+horario ya estaba suficientemente demorado. En lugar de eso salí a correr 8 km
+por la costanera del río Mapocho, una decisión absolutamente recomendable.
+
+Terminé el día suficientemente cansado como para no acordarme como terminó, y
+dejamos acá el resumen.
